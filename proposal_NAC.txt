@@ -1,0 +1,47 @@
+Dear Huub,
+
+Leiden Observatory hosts the 75th Netherlandss Astronomen Conferentie
+(NAC), which will take place as part of the European Astronomical
+Society Annual Meeting from 29 June – 3 July 2020 at the Event
+\& Convention Center and Holiday Inn Leiden, The Netherlands
+
+We indent to organize a 4-day programme from 13:00 to 17:00 with 30
+minutes coffee.  Each afternoon starts with one 30 minute invited
+talk, and ends with a 30 minute invited talk.  the 3:30 hours is
+devided 7 slots of 20 minutes for contributed talks with 2x10 mintes
+extra time for delays.
+
+Ideally, we'll have a large auditorium for the talks (~100 people).
+
+Parallel with the contributed talks we have hands-on sessions, in
+which practical assistance can be provided in various topics that have
+been discussed during the main talks.
+
+Session topics: Outreach, Instrumentation, Simulations and modeling,
+Multi-messenger astronomy, Imaging, Spectroscopy, Theory,
+Inteferometry.
+
+Hands-on session topics: LOFAR data reduction, Training on outreach,
+Machine learning, NOVA-6, Cosmolgical simulations, Python in
+astronomy, GAIA, AMUSE data reduction.
+
+Community building activity:
+There is a vide available, which we may be able to claim as the
+``Dutch Garden'' with an activity such as a Lego sculpture to build, a
+puzzle make or something else to keep people entertained outside the
+talks, focussing on a Dutch theme within astronomy.
+
+Press involvement:
+We would like to involve the press a bit more actively than during
+earlier NACs.  At the moment we are in discussion with Marieke Baan on
+organizing writing sessions in te press room by coupling a Dutch
+astronomer with a journalist and have them write, together, an article
+for the `{\em Kids Week} or a chapter of a children book on astronomy.
+
+Posters:
+Whereas EAS will be equipped with electronic posters, we, during the
+NAC, would like to use paper posters. which will be exposed at the
+long corridor connecting the hotel with the main venue.  In this way,
+the NAC posters remain distinct from the EAS posters, and we can have
+our NAC posterprize as usual.
+
