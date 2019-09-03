@@ -1,17 +1,19 @@
 Dear Huub,
 
-Leiden Observatory hosts the 75th Netherlandss Astronomen Conferentie
-(NAC), which will take place as part of the European Astronomical
-Society Annual Meeting from 29 June – 3 July 2020 at the Event
-\& Convention Center and Holiday Inn Leiden, The Netherlands
+In 2020 no NAC will be held, but a number of parallel activities,
+organized by Leiden Observatory (instead of our Flemish colleagues,
+whose turn it would have been) will take place as follows: These
+parallel activities will be organized during the European Astronomical
+Society Annual Meeting from 29 June – 3 July 2020 at the Event \&
+Convention Center and Holiday Inn Leiden, The Netherlands
 
-We indent to organize a 4-day programme from 13:00 to 17:00 with 30
-minutes coffee.  Each afternoon starts with one 30 minute invited
-talk, and ends with a 30 minute invited talk.  the 3:30 hours is
+We organize a 4-day programme from 13:00 to 17:00 (with 30
+minutes coffee).  Each afternoon starts with one 30 minute invited
+talk, and ends with a 30 minute invited talk.  The 3:30 hours is
 devided 7 slots of 20 minutes for contributed talks with 2x10 mintes
 extra time for delays.
 
-Ideally, we'll have a large auditorium for the talks (~100 people).
+Talks will be presented in one of the auditoriums (capacity ~100 people).
 
 Parallel with the contributed talks we have hands-on sessions, in
 which practical assistance can be provided in various topics that have
@@ -23,13 +25,13 @@ Inteferometry.
 
 Hands-on session topics: LOFAR data reduction, Training on outreach,
 Machine learning, NOVA-6, Cosmolgical simulations, Python in
-astronomy, GAIA, AMUSE data reduction.
+astronomy, GAIA, AMUSE, data reduction.
 
-Community building activity:
-There is a vide available, which we may be able to claim as the
-``Dutch Garden'' with an activity such as a Lego sculpture to build, a
-puzzle make or something else to keep people entertained outside the
-talks, focussing on a Dutch theme within astronomy.
+Community building activity: There is a vide available, which we may
+be able to claim as the ``Dutch Garden'' with an activity such as a
+Lego sculpture to build, a puzzle make or something else to keep
+people entertained outside the talks, focussing on a Dutch theme
+within astronomy.
 
 Press involvement:
 We would like to involve the press a bit more actively than during
