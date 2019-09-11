@@ -60,11 +60,11 @@ speakers have been contacted yet or have confirmed):
 1a (Outreach): Pedro Russo (LU), Peter Barthel (RuG), Joeri van Leeuwen (UvA, Vici), Bas Haring (UL), Ionica Smeets (UL)
 1b (Instrumentation): Paul Groot (RU), Peter Jonker (RU), Jelle Kaastra (SRON), Hiroki Akamatsu (SRON), Aurora Simionescu (SRON)
 2a (Simulations and modeling): Amina Helmi (RuG, Vici + Spinoza), Adrian Hamers (IAS)
-2b (Multi-messenger astronomy): Gijs Nelemans (RU, Vici), Michiel van der Klis (UvA, Spinoza), Yamilia Miguel (UL)
+2b (Multi-messenger astronomy): Gijs Nelemans (RU, Vici), Michiel van der Klis (UvA, Spinoza), Yamila Miguel (UL)
 3a (Imaging): Marc Verheijen (RuG, Vici), Ewine van Dishoeck (LU, Spinoza)
 3b (Spectroscopy): Ignas Snellen (LU, Vici), Xander Tielens (LU, Spinoza), Elisa Constantini (UvA)
 4a (Theory): Sera Markoff (UvA, Vici), Erik Verlinde (UvA), Chris van den Broek (NIKHEF, Vici), Elena Sellentin (UL)
-4b (Inteferometry): Heino Falkce (RU, Spinoza)
+4b (Interferometry): Heino Falkce (RU, Spinoza)
 
 We give special emphasis to newly hired staff astronomers, gender
 balance, institutional balance and on a wide diversity of topics.
@@ -82,9 +82,6 @@ Stephanie Cazeau (TU Delft)
 Paul Groot (RU)
 Lex Kaper (UvA)
 Frans Snik (LU)
-
-Our preliminary Science Organising Committee consists of Simon
-Portegies Zwart (chair), Jab Lub and Huub Rottgering.
 
 In addition to the auditorium and the small meeting room we would also
 like to use the vide above the main auditorium for the entire week as
@@ -120,4 +117,13 @@ of the Holiday Inn. This room is not extremely suitable for much else
 anyway.
 
 With kind regards,
-Simon Portegies Zwart, Lydia Stofanova, Dirk van Dam, Rafael Mostert, Frits Sweijen, Martijn Wilhelm and Martijn Oei (members of the EAS AM 2020 SOC and LOC, and the NAC 2020 SOC and LOC; Leiden Observatory)
+Simon Portegies Zwart (chair),
+Jab Lub,
+Huub Rottgering,
+and members of the EAS AM 2020 SOC and LOC, and the NAC 2020 SOC and LOC; Leiden Observatory:
+Lydia Stofanova,
+Dirk van Dam,
+Rafael Mostert,
+Frits Sweijen,
+Martijn Wilhelm,
+Martijn Oei 
